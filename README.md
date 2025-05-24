@@ -1,4 +1,7 @@
 # Secure Multi-Branch Enterprise Network (Cisco Packet Tracer)
+![Network Topology](Pictures/1.png)
+
+
 
 ## 📌 Project Overview
 This project simulates the design and configuration of a secure, scalable enterprise network for a mid-sized company using Cisco Packet Tracer. The company operates across two floors in its main branch (Egypt) and is expanding to a second branch (Lebanon). The network emphasizes layered security, connectivity, and centralized management.
@@ -45,5 +48,10 @@ This project simulates the design and configuration of a secure, scalable enterp
 ## 💻 Tools Used
 - **Cisco Packet Tracer**
 - **Networking Protocols**: OSPF, ACL, VPN, AAA (TACACS+), SYSLOG
+![Network Topology](Pictures/2.png)
+![Network Topology](Pictures/3.png)
+![Network Topology](Pictures/4.png)
+
+
 
 
